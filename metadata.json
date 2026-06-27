@@ -1,0 +1,6 @@
+{
+  "name": "AgroMind MVP",
+  "description": "Asistente Virtual de Riego Inteligente con IA proactiva, monitoreo IoT en tiempo real y simulador de ahorro ROI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
